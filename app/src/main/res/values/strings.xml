@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewActivity</string>
+    <string name="textview">TextView</string>
+    <string name="drugie_okno">Drugie okno</string>
+    <string name="login">Login</string>
+    <string name="has_o">Hasło</string>
+    <string name="password">password</string>
+    <string name="zaloguj">Zaloguj</string>
+</resources>
