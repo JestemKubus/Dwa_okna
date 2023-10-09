@@ -17,7 +17,7 @@ TextView textView;
 
         if(LoginValue != null)
         {
-            textView.setText(LoginValue);
+            textView.setText("Login: "+LoginValue);
         }
 
     }

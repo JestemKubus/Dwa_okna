@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
                 if(login.getText().toString().equals(LoginTym) && password.getText().toString().equals(PassTym))
                 {
                     Intent intent = new Intent(MainActivity.this, secondView.class);
+                    intent.putExtra("login",login.getText().toString());
                     startActivity(intent);
-                    intent.putExtra("login",login.getText());
                 }
                 else
                 {
