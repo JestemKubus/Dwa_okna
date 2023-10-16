@@ -6,4 +6,5 @@
     <string name="has_o">Hasło</string>
     <string name="password">password</string>
     <string name="zaloguj">Zaloguj</string>
+    <string name="powr_t_do_logowania">Powrót do logowania</string>
 </resources>
